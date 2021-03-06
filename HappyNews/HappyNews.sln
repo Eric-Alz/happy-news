@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "News", "News\News.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sentiment", "Sentiment\Sentiment.csproj", "{59003BCA-A8BA-446E-9CE9-190394507503}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsFetcher", "NewsFetcher\NewsFetcher.csproj", "{81C35EA1-ABC2-430B-A7AA-549071A19EC9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerlessNewsPipeline", "NewsFetcher\ServerlessNewsPipeline.csproj", "{81C35EA1-ABC2-430B-A7AA-549071A19EC9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Database", "Database\Database.csproj", "{C7C84395-4D0D-42E1-A8B3-5F4933DF0D4A}"
 EndProject
